@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE06ISSM-RID16-07-NUTNRB000-telemetered-nutnr_b_dcl_conc_instrument
-last_request: '2022-01-21T17:53:14.713110Z'
+last_request: '2022-02-07T17:19:44.002156Z'
 response: https://raw.githubusercontent.com/ooi-data/CE06ISSM-RID16-07-NUTNRB000-telemetered-nutnr_b_dcl_conc_instrument/main/history/response.json
 status: discontinued
